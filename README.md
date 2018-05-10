@@ -1,4 +1,6 @@
 
+CodeBook: lists all the measurements and provides the description of the data variables.
+
 The run_analysis.R script will execute the following steps:
 
 1) Download the file from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" and put the file in the data folder
